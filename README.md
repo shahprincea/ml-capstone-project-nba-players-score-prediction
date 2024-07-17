@@ -1,11 +1,16 @@
 # NBA players 2023 season scored points prediction
 
+**Prince**
 
-## Elevator speech
+#### Executive summary
 
 Predicting basketball points for each player is crucial in basketball analytics. It is a key performance metric that helps coaches, analysts, and fans evaluate a player’s scoring ability and overall offensive contribution to the team. Understanding a player’s scoring potential aids in strategic decision-making during games, player selection, and talent scouting. This notebook delves into basketball data analytics and uses various machine learning techniques to predict players’ point contributions.
 
+#### Rationale
+
 The main objective is to demonstrate the implementation of four different regression models to predict basketball points: Linear Regression, K-Nearest Neighbors (KNN) Regressor, Decision Tree Regressor (DT), and Random Forest Regressor (RFR). Each model is used to predict players’ total points based on various performance metrics, such as minutes played, field goals made, free throws made, assists, steals, blocks, and other relevant statistics.
+
+#### Rationale
 
 By employing these regression models, we aim to understand their performance in predicting basketball points and compare their predictive capabilities. This analysis will provide valuable insights into the strengths and weaknesses of each model and help identify the most suitable one for predicting basketball points in this specific dataset.
 
@@ -30,11 +35,15 @@ Let’s explore the world of basketball data analytics and examine the predictio
 
 **Predictions visualization**: Visualize the predictions made by each regression model and evaluate their performance.
 
-**Data Sources**
+#### Data Sources
 The following datasets will be used for this project:
 
 NBA player stats [https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
+#### Results
 
 
 
+#### Outline of project
+
+- [python_notebook](project-notebook.ipynb)
