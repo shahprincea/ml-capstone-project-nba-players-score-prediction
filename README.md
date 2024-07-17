@@ -42,6 +42,9 @@ NBA player stats [https://www.kaggle.com/datasets/arashnic/fitbit](https://www.k
 
 #### Results
 
+![Analysis](images/analysis.png "analysis")
+![Comparison](images/Comparision.png "Comparision")
+![TrueVsPredicated](images/TrueVsPredicated.png "TrueVsPredicated")
 
 
 #### Outline of project
